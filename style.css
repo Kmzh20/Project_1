@@ -8,6 +8,7 @@ body{
     
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     /* margin: 0px 20px 30px 30px; top bottom  right left */
+    background-color: aliceblue;
 
 }
 
@@ -16,7 +17,7 @@ body{
 
 header{
 
-    background-color: gray;
+    0;
 
 }
 
